@@ -1,0 +1,18 @@
+# Python venv
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
+
+# Qt / PySide
+*.pyproject
+*.qrc
+*.qmlc
+*.jsc
