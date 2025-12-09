@@ -62,16 +62,16 @@ project/
 
 ## ✨ 주요 기능 (Features)
 
-- ✔ **게시글 목록 조회** (QTableWidget)
-- ✔ **게시글 작성** (Create)
-- ✔ **게시글 조회** (Read)
-- ✔ **게시글 수정** (Update)
-- ✔ **게시글 삭제** (Delete)
-- ✔ **SQLite 기반 데이터 저장**
-- ✔ **QStackedWidget 기반 페이지 이동**
-- ✔ **Signal / Slot 기반 이벤트 처리**
-- ✔ **입력값 검증** (제목/내용 비어 있을 시 저장 불가)
-- ✔ **삭제 전 사용자 확인** (QMessageBox)
+- ✔ ** 게시글 목록 조회 ** (QTableWidget)
+- ✔ ** 게시글 작성 ** (Create)
+- ✔ ** 게시글 조회 ** (Read)
+- ✔ ** 게시글 수정 ** (Update)
+- ✔ ** 게시글 삭제 ** (Delete)
+- ✔ ** SQLite 기반 데이터 저장 **
+- ✔ ** QStackedWidget 기반 페이지 이동 **
+- ✔ ** Signal / Slot 기반 이벤트 처리 **
+- ✔ ** 입력값 검증 ** (제목/내용 비어 있을 시 저장 불가)
+- ✔ ** 삭제 전 사용자 확인 ** (QMessageBox)
 
 
 ---
